@@ -1,5 +1,11 @@
 # nuxt-front-end-challenge
-
+## Installation
+*1. download or clone this project
+*2. open cmd 
+*3. do the step Build Setup by run command on CMD
+*4. after run "npm run dev" completed go to a browser and enter "localhost:3000"
+*note if error try to run cmd command below:
+*** 1. "npm install express"
 ## Build Setup
 
 ```bash
