@@ -7,6 +7,7 @@
 4. after run "npm run dev" completed go to a browser and enter "localhost:3000"
 *note if error try to run cmd command below:
     1. "npm install express"
+    2. "npm install bootstrap-vue"
 ```
 
 ## Build Setup
